@@ -31,6 +31,12 @@
         "argsIgnorePattern": "^_"
       }
     ],
+    "@typescript-eslint/interface-name-prefix": [
+      "error",
+      {
+        "prifixWithI": "always"
+      }
+    ],
     "class-methods-use-this": "off",
     "import/extensions": [
       "error",
