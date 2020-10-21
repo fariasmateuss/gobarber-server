@@ -34,7 +34,7 @@
     "@typescript-eslint/interface-name-prefix": [
       "error",
       {
-        "prifixWithI": "always"
+        "prefixWithI": "always"
       }
     ],
     "class-methods-use-this": "off",
