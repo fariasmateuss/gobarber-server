@@ -37,7 +37,6 @@
         "prefixWithI": "always"
       }
     ],
-    "no-useless-contructor": "off",
     "class-methods-use-this": "off",
     "import/extensions": [
       "error",
